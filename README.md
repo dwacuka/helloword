@@ -1,4 +1,4 @@
-# helloword
+# helloworld
 Helloworld Powershell app.
 Download helloworld.zip file from github.
 Unzip helloworld zip file into Helloworld folder.
